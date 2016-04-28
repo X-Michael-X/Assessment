@@ -1,0 +1,4 @@
+exercise2
+
+my_folder$ cd ../
+$ rm -R my_folder
