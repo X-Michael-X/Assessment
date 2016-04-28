@@ -1,4 +1,4 @@
 exercise2
 
-ubuntu@creativeconspiracy-railswork-2891899:~/workspace/my_folder$ cd ../
-ubuntu@creativeconspiracy-railswork-2891899:~/workspace$ rm -R my_folder
+my_folder$ cd ../
+$ rm -R my_folder
