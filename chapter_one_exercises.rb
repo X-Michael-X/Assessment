@@ -42,5 +42,5 @@
   puts 1.6 * 1.6
 
 # Exercise 7
-  puts "this error indicates an open bracket somewhere in the preceding code, the '}' suggests it may have happened during the creation of a hash"
+  "this error indicates an open bracket somewhere in the preceding code, the '}' suggests it may have happened during the creation of a hash"
 
